@@ -1,0 +1,9 @@
+export { makeAutomationCommand } from "./automation";
+export { makeClearCommand } from "./clear";
+export { makeDeviceCommand } from "./device";
+export { makeEventsCommand } from "./events";
+export { makeHomeCommand } from "./home";
+export { makeOccupancyCommand } from "./occupancy";
+export { makeRoomCommand } from "./room";
+export { makeSensorCommand } from "./sensor";
+export { makeStatusCommand } from "./status";
